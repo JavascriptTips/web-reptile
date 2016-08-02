@@ -3,17 +3,7 @@
  */
 var serverDirPre = '/data/web-reptile/data/';
 
-//var system = require('system')
-//
-//window.__DEV__ = system.env.NODE_ENV !== 'production';
-//
-//var dirPre;
-//
-//if(__DEV__){
-//  dirPre = localDirPre;
-//}else{
-//  dirPre = serverDirPre;
-//}
+var dirPre = './'
 
 module.exports = {
 
